@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=recursive_series2
+comment1.params=x\ n
+comment1.target=int\ power(int,\ int)
+comment2.params=n
+comment2.target=int\ factorial(int)
+comment3.params=x\ n
+comment3.target=double\ calculate(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

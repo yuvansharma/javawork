@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DoublyLinkedList
+comment1.params=data
+comment1.target=void\ addNode(int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=del
+comment3.target=void\ deleteNode(DoublyLinkedList.Node)
+comment4.params=temp
+comment4.target=DoublyLinkedList.Node\ search(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

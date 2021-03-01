@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=prime_adam_number
+comment1.params=n
+comment1.target=int\ reverse(int)
+comment2.params=n
+comment2.target=int\ prime(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

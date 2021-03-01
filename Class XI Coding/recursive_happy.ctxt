@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=recursive_happy
+comment1.params=nn
+comment1.target=recursive_happy(int)
+comment2.params=i
+comment2.target=int\ sum_digits(int)
+comment3.params=
+comment3.target=void\ isHappy()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
